@@ -1,0 +1,7 @@
+<div class="mb-3">
+    <label for="[field]input" class="form-label">[fieldmaj]</label>
+    <input type="number" step="[inputstep]" class="form-control" id="[field]input"
+        aria-describedby="[field]help" name="[field]">
+    <div id="[field]help" class="form-text">[fieldhelp]
+    </div>
+</div>
